@@ -6,3 +6,6 @@ this is change made from newBranch.
 
 ## local changes from newBranch
 this is local change.
+
+## changes made from newBranch
+trying to raise the conflict from newBranch.
